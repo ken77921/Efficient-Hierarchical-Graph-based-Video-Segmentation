@@ -1,0 +1,2 @@
+#define PARA_HIST_BIN_NUM 20
+#define MAX_NEI_CACHE_SIZE 100
