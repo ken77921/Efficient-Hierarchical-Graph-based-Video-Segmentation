@@ -1,4 +1,4 @@
-Efficient Hierarchial Graph-based Video Segmentation
+Efficient Hierarchical Graph-based Video Segmentation
 ------------------------------------------------
 Last updated date: 2014/9/7
 For research purposes, using or modifying the soure code is granted, but any form of commercial usage is not allowed.
